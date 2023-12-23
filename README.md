@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Othmane BOUCHTA</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/obouchta" alt="obouchta's 42 stats" /></a>
+</div>
 
 <h3 align="center">All of my projects are available at <a href="https://0thmane.com">my Portfolio Website</a></h3>
 
