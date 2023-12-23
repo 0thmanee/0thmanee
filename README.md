@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Othmane BOUCHTA</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [0thmane.com](0thmane.com)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">All of my projects are available at <a href="https://0thmane.com">my Portfolio Website</a></h3>
+
+<h3 align="center">Connect with me</h3>
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/othmane-bouchta-6b5a07255/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/othmane-bouchta-6b5a07255/" height="30" width="40" />
@@ -12,8 +13,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/0thmvnee/" height="30" width="40" />
 </a>
 </div>
-
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <div align="center" style="display: none;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
