@@ -9,13 +9,22 @@
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/othmane-bouchta-6b5a07255/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/othmane-bouchta-6b5a07255/" height="30" width="40" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/0thmvnee/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/0thmvnee/" height="30" width="40" />
-</a>
+  <a href="https://www.instagram.com/0thmvnee/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="othmanebouchtaa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/othmane-bouchta-6b5a07255" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+
+    
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0thmanee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 <h3 align="center">Languages and Tools</h3>
 <div align="center" style="display: none;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
