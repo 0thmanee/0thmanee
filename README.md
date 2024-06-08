@@ -14,6 +14,6 @@
 ###
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,c,cpp,html,css,js,react,figma,firebase,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,c,cpp,html,css,tailwind,js,react,next,figma,firebase,mysql,mongodb,mongoose" />
   </a>
 </p>
